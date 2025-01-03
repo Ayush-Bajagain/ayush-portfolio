@@ -1,5 +1,16 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "ayush-bajagain-portfolio",
+  "description": "Professional portfolio website of Ayush Bajagain, a Full-Stack Developer specializing in React, Node.js, PHP, and MySQL",
+  "keywords": [
+    "ayush bajagain",
+    "portfolio",
+    "full stack developer",
+    "web developer",
+    "react developer",
+    "php developer",
+    "nepal developer",
+    "software engineer"
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
